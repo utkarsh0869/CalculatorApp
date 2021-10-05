@@ -1,1 +1,1 @@
-An android app that allows the user to enter numbers using the app’s buttons, then performs the calculation when any of the operation keys are pressed.![image](https://user-images.githubusercontent.com/44482062/136099712-ff330e5f-5345-45fb-9500-79c6a4a6b5ed.png)
+An android app that allows the user to enter numbers using the app’s buttons, then performs the calculation when any of the operation keys are pressed.
